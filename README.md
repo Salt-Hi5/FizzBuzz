@@ -1,0 +1,1 @@
+Kata for February 1. Done through functional programming
